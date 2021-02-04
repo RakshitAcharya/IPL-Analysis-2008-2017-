@@ -9,30 +9,33 @@
     Super Kings has been a very consistent team qualifying for the Playoffs everytime.
 
 ## MOTIVATION:
-    Cricket is the most watched and played game in India. Thus naturally, I have the great admiration and passion towards the sport cricket.
-    I spend most of the summer holidays watchiing the IPL and planning and predicting my favorite teams playing XI. Thus this great love 
-    towwards IPL led me to take up this project and do basic analysis on the IPL matches over the years.
+    Cricket is the most watched and played game in India. Thus naturally, I have the great admiration and passion towards 
+    the sport cricket. I spend most of the summer holidays watchiing the IPL and planning and predicting my favorite teams 
+    playing XI. Thus this great love towwards IPL led me to take up this project and do basic analysis on the IPL matches 
+    over the years.
 
 ## DESCRIPTION OF PROJECT:
 First the data was loaded and cleaned. There were very few null values is in the dataset thus those rows were dropped.
 Then analysis was divided into 6 parts:
   ### 1.Which team is the most successful
-          This task was tackled by finding out the total number of matches won by each team in all the seasons. We find that Mumbai
-          had the most number of wins.
+          This task was tackled by finding out the total number of matches won by each team in all the seasons. We find that 
+          Mumbai had the most number of wins.
   ### 2.Which team has the highest win rate
-          In the 1st task it was unclear which was the superior team as CSK had played fewer seasons than MI . Thus while finding the 
-          win rate percentage we find that CSK dominated the win-rate.
+          In the 1st task it was unclear which was the superior team as CSK had played fewer seasons than MI . Thus while 
+          finding the win rate percentage we find that CSK dominated the win-rate.
   ### 3.Winning Toss - An advantage?
-          Always its been said winning the toss is very cruicial in Indian conditions due to the 'Due-Factor'. But upon analysis we 
-          see its fairly even considering all seasons, but the winner of toss gets an adavntage over their opponent in the last 3 years.
+          Always its been said winning the toss is very cruicial in Indian conditions due to the 'Due-Factor'. But upon analysis 
+          we see its fairly even considering all seasons, but the winner of toss gets an adavntage over their opponent in the 
+          last 3 years.
   ### 4.Analysis over batting or fielding first
-          In this task we find that CSK had a high chance of winning a game if they batted first after winning the toss, and KKR were 
-          dominating games if they bowled first aftter winning the toss.
+          In this task we find that CSK had a high chance of winning a game if they batted first after winning the toss, and KKR 
+          were dominating games if they bowled first aftter winning the toss.
   ### 5.Duck-Worth-Lewis method:
-          The Duckworth–Lewis–Stern method (DLS) is a mathematical formulation designed to calculate the target score for the team batting
-          second in a limited overs cricket match interrupted by weather or other circumstances. There has been a lot of speculation over
-          the years that the Duck-Worth-Lewis method favours the team batting first. And upon analysis we see only 5 times team batting 
-          second was able to win over 14 times team batting first one. Thus, its clear the DLS method favours the team batting first an advantage.
+          The Duckworth–Lewis–Stern method (DLS) is a mathematical formulation designed to calculate the target score for the 
+          team batting second in a limited overs cricket match interrupted by weather or other circumstances. There has been 
+          a lot of speculation over the years that the Duck-Worth-Lewis method favours the team batting first. And upon 
+          analysis we see only 5 times team batting second was able to win over 14 times team batting first one. Thus,
+          its clear the DLS method favours the team batting first an advantage.
   ### 6. MVP of IPL:
           The MVP of IPL is Chris Gayle who has received the Man Of Match Award more than anyone else. Honorable mentions to 
           AB de Villiers who comes 2nd in the list.
