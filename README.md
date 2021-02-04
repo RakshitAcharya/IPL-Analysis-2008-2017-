@@ -2,10 +2,11 @@
 
 ## OVERVIEW : 
 ### About IPL:
-    The league was founded by the Board of Control for Cricket in India (BCCI) in 2007. Its played in the T20 format. In the Indian Premier League(IPL) 8 teams battle it out
-    for the coveted trophy. It's by far the most watched franchise based cricket tournament all over the world. Over the years we have seen various teams able to lift the
-    trophy. In the last few years Mumbai Indians have emerged as the champions a few times but over the time Chennai Super Kings has been a very consistent team qualifying
-    for the Playoffs everytime.
+    The league was founded by the Board of Control for Cricket in India (BCCI) in 2007. Its played in the T20 format. 
+    In the Indian Premier League(IPL) 8 teams battle it out for the coveted trophy. It's by far the most watched 
+    franchise based cricket tournament all over the world. Over the years we have seen various teams able to lift the 
+    trophy. In the last few years Mumbai Indians have emerged as the champions a few times but over the time Chennai 
+    Super Kings has been a very consistent team qualifying for the Playoffs everytime.
 
 ## MOTIVATION:
     Cricket is the most watched and played game in India. Thus naturally, I have the great admiration and passion towards the sport cricket. I spend most of the summer
